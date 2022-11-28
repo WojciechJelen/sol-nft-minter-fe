@@ -1,0 +1,28 @@
+{
+  "name": "Berserk #1",
+  "symbol": "BRSK",
+  "description": "Skeleton from berserk.",
+  "image": "0.jpeg",
+  "attributes": [
+    {
+      "trait_type": "armor",
+      "value": "black"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "skull"
+    },
+    {
+      "trait_type": "weapon",
+      "value": "sword"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.jpeg",
+        "type": "image/jpeg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Berserk #2",
+  "symbol": "BRSK",
+  "description": "Beast from Berserk.",
+  "image": "1.jpeg",
+  "attributes": [
+    {
+      "trait_type": "armor",
+      "value": "none"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "belt"
+    },
+    {
+      "trait_type": "weapon",
+      "value": "sword"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.jpeg",
+        "type": "image/jpeg"
+      }
+    ]
+  }
+}

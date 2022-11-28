@@ -1,0 +1,57 @@
+{
+  "program": {
+    "candyMachine": "2MjBcH4ZFBtFqb4pYrK2UTpDTYPZq15x2jKhppVFR9gY",
+    "candyMachineCreator": "FtENrbEwMYLBoMEXKZucPm7kNaqgH4zQajN6qSNniyDT",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Berserk #1",
+      "image_hash": "b4cf0b7e5213ac0432ebee24ae151dc2e6890e0c3ade7ea9b0ca22d723fcd98a",
+      "image_link": "https://arweave.net/cSWrjieiZijmcvMwCX3Vz1aMDSxYy-HqZq_HdPDXZW0?ext=jpeg",
+      "metadata_hash": "43e2bbca3dd431b1ef31155be14158d342c811c79de7c470f6327120e410ce28",
+      "metadata_link": "https://arweave.net/UUyx8_62j5qoXECEnprIkJQRc6rqftUrYY7DhagorHY",
+      "onChain": true
+    },
+    "1": {
+      "name": "Berserk #2",
+      "image_hash": "25d9da1d2f999aefa0ccce1f2dcb2f506b0cbf433719099d41dba37598240bfe",
+      "image_link": "https://arweave.net/PyfV4zoE2ghPcrs70ksK2_4ZsrnmS604zsrYbg9WS_A?ext=jpeg",
+      "metadata_hash": "bc176299b00cea1793e23ed7a49fa085c70ecafdbb560ffbd7b2b77da5b0f722",
+      "metadata_link": "https://arweave.net/Y3_HW73zJ2YYSQQqenftr2IUld0N-JCexqNH6u0ngY0",
+      "onChain": true
+    },
+    "2": {
+      "name": "Berserk #3",
+      "image_hash": "ad064cb30d47133687ed0e99dc78c64919814f9ab9cf38383d71c778680c7443",
+      "image_link": "https://arweave.net/WgVD840q9O30VVUNO_-0WU7QSiFh7BwSTsC0m9rwh-0?ext=jpeg",
+      "metadata_hash": "736a39cc68e8eaf0b7bde6814d80dc27f4569fbba3a7d0eb9419caf7f6518b4b",
+      "metadata_link": "https://arweave.net/G1f24iiECzQ01_0jnbYfjDuKeUWyq_ebRjBo0ZUvMWc",
+      "onChain": true
+    },
+    "3": {
+      "name": "Berserk #4",
+      "image_hash": "9a8d1dd676c082cc70f3f7bf7f7b1bcc1c538d4480c17ef804dc1562c9ec2026",
+      "image_link": "https://arweave.net/G8bD7bUzzwOeaCjc-uwIg0SeB4Cl2xlhC2_S0WzCVzc?ext=jpeg",
+      "metadata_hash": "026e2f92a46f183b5fac51f255aa9f31499f663be2b40de93a8fc266ac9ed80f",
+      "metadata_link": "https://arweave.net/wOrFck5FST0Sm7IyIbFNzf5FCnOSj0Myigtb8oBqIlY",
+      "onChain": true
+    },
+    "4": {
+      "name": "Berserk #5",
+      "image_hash": "7e24d1154989dd3808e58d574f1f29f08f108377dab80701be675c4ad7cc90b5",
+      "image_link": "https://arweave.net/8qad7PeoYdzWBExzzFen2VsrnTenBqP_GWCmvb-GNGA?ext=jpeg",
+      "metadata_hash": "9bd9bedeb6a325492f68fd968c29c8db0a6ea81fe55fbc50e003c78c2e11743b",
+      "metadata_link": "https://arweave.net/RAGobRYgYcfT0k43IXdf_eb_-2El7GJwDpWjycCCDFQ",
+      "onChain": true
+    },
+    "5": {
+      "name": "Berserk #6",
+      "image_hash": "7854e3d7b42fc059b0db4f35085d12e21ca69cf7070e417cdb9c20dc096e64fd",
+      "image_link": "https://arweave.net/BozSSO4NaNElukijogVxRw_FLVPG5QPWu0F6xdpB5Iw?ext=jpeg",
+      "metadata_hash": "e078234568dac68abec4a902eee78263cab1964f1893d7b8533841bff2588d5c",
+      "metadata_link": "https://arweave.net/6JRsWUC0csRVzo1IENflHh2-lo0a44pS7OHVX0Rxqr4",
+      "onChain": true
+    }
+  }
+}

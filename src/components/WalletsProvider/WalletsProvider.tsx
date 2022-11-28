@@ -20,16 +20,18 @@ type PropsType = {
 export const WalletsProvider = ({ children }: PropsType) => {
   const network = WalletAdapterNetwork.Devnet;
   const endpoint = useMemo(() => clusterApiUrl(network), [network]);
+  const phantom = useMemo(() => new PhantomWalletAdapter(), []);
+  const solflare = useMemo(() => new SolflareWalletAdapter(), []);
 
   const wallets = useMemo(
-    () => [new PhantomWalletAdapter(), new SolflareWalletAdapter()],
+    () => [phantom, solflare],
     // eslint-disable-next-line react-hooks/exhaustive-deps
     [network]
   );
 
   return (
     <ConnectionProvider endpoint={endpoint}>
-      <WalletProvider wallets={wallets}>
+      <WalletProvider wallets={wallets} autoConnect={true}>
         <WalletModalProvider>{children}</WalletModalProvider>
       </WalletProvider>
     </ConnectionProvider>
